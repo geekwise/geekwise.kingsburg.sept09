@@ -28,6 +28,29 @@ The link will be the name of the file.
 ---
 #Reference
 
+### How to make a table
+```
+<table border='5px'>
+<tr>
+    <th>Turtle Type</th>
+    <th>Price</th>
+</tr>
+    
+    <tr>
+        <td>Flaming</td>
+        <td>12.99</td>
+    </tr>
+    
+    <tr>
+        <td>Extreme Flames</td>
+        <td>200.00</td>
+    </tr>
+    
+</table>
+
+```
+
+
 ### Use names that have dashes `-` for example
 
 ```
